@@ -30,7 +30,7 @@ import java.util.*;
         12 = 5 + 7 입니다.
         따라서 [2,5,7,9,12] 를 return 해야 합니다.*/
 
-class Solution {
+class TakeTwoAndAdd {
     public int[] solution(int[] numbers) {
         int[] answer = {};
 
@@ -48,7 +48,7 @@ class Solution {
         return answer;
     }
     public static void main(String[] args) {
-        Solution sol = new Solution();
+        TakeTwoAndAdd sol = new TakeTwoAndAdd();
 
         int[] numbers1 = {2,1,3,4,1};
         int[] numbers2 = {5,0,2,7};

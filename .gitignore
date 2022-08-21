@@ -1,0 +1,13 @@
+.idea/algorithm.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+algorithm/.gradle/
+algorithm/.idea/
+algorithm/build.gradle
+algorithm/build/
+algorithm/gradle/
+algorithm/gradlew
+algorithm/gradlew.bat
+algorithm/settings.gradle
+algorithm/src/main/java/org/example/Main.java
