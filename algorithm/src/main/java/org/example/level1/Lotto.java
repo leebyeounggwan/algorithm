@@ -39,14 +39,4 @@ public class Lotto {
         }
         return answer;
     }
-    public static void main(String[] args) {
-        Lotto sol = new Lotto();
-
-        int[] numbers1 = {44, 1, 0, 0, 31, 25};
-        int[] numbers2 = {31, 10, 45, 1, 6, 19};
-
-        int[] result1 = sol.solution(numbers1, numbers2);
-
-        System.out.println(Arrays.toString(result1));
-    }
 }
