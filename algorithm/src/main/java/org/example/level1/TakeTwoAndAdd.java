@@ -47,18 +47,6 @@ class TakeTwoAndAdd {
 
         return answer;
     }
-    public static void main(String[] args) {
-        TakeTwoAndAdd sol = new TakeTwoAndAdd();
-
-        int[] numbers1 = {2,1,3,4,1};
-        int[] numbers2 = {5,0,2,7};
-
-        int[] result1 = sol.solution(numbers1);
-        int[] result2 = sol.solution(numbers2);
-
-        System.out.println(Arrays.toString(result1));
-        System.out.println(Arrays.toString(result2));
-    }
 
 }
 
