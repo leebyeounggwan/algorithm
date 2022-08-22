@@ -11,3 +11,4 @@ algorithm/gradlew
 algorithm/gradlew.bat
 algorithm/settings.gradle
 algorithm/src/main/java/org/example/Main.java
+auto_push.bat
