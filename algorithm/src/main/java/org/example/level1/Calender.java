@@ -12,9 +12,9 @@ public class Calender {
             //System.out.println(dayPlus);
         }
         dayPlus += b-1;
-        //System.out.println(dayPlus);
+
         answer = week[(dayPlus+5)%7];
-        //System.out.print(week);
+
         return answer;
     }
 }
